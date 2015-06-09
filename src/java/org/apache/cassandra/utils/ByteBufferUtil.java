@@ -38,7 +38,7 @@ import org.apache.cassandra.io.util.FileUtils;
  * Utility methods to make ByteBuffers less painful
  * The following should illustrate the different ways byte buffers can be used
  *
- *        public void testArrayOffet()
+ *        public void testArrayOffset()
  *        {
  *
  *            byte[] b = "test_slice_array".getBytes();
